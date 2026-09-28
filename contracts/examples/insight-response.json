@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0",
+  "requestId": "demo-request-001",
+  "snapshotId": "demo-snapshot-001",
+  "status": "ok",
+  "generatedAt": "2026-09-24T14:10:00Z",
+  "expiresAt": "2026-09-24T15:10:00Z",
+  "method": "rules",
+  "insights": [
+    {
+      "id": "temperature-trend",
+      "title": "Temperatura en aumento",
+      "body": "En las tres horas disponibles, la temperatura pasa de 18 a 21 °C. La probabilidad de precipitación va del 10 al 20 %.",
+      "evidence": [
+        {
+          "timestamp": "2026-09-24T15:00:00Z",
+          "field": "temperatureC"
+        },
+        {
+          "timestamp": "2026-09-24T17:00:00Z",
+          "field": "temperatureC"
+        },
+        {
+          "timestamp": "2026-09-24T15:00:00Z",
+          "field": "precipitationProbabilityPct"
+        },
+        {
+          "timestamp": "2026-09-24T17:00:00Z",
+          "field": "precipitationProbabilityPct"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Ejemplo sintético con tres muestras; no describe el día completo."
+  ]
+}

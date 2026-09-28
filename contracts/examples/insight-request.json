@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0",
+  "requestId": "demo-request-001",
+  "snapshotId": "demo-snapshot-001",
+  "fetchedAt": "2026-09-24T14:00:00Z",
+  "timezone": "America/Montevideo",
+  "locale": "es",
+  "mode": "day_summary",
+  "hours": [
+    {
+      "timestamp": "2026-09-24T15:00:00Z",
+      "temperatureC": 18,
+      "precipitationProbabilityPct": 10
+    },
+    {
+      "timestamp": "2026-09-24T16:00:00Z",
+      "temperatureC": 20,
+      "precipitationProbabilityPct": 15
+    },
+    {
+      "timestamp": "2026-09-24T17:00:00Z",
+      "temperatureC": 21,
+      "precipitationProbabilityPct": 20
+    }
+  ]
+}

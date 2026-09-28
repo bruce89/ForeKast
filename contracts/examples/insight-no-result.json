@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0",
+  "requestId": "demo-request-001",
+  "snapshotId": "demo-snapshot-001",
+  "status": "no_insight",
+  "generatedAt": "2026-09-24T14:10:00Z",
+  "expiresAt": "2026-09-24T15:10:00Z",
+  "method": "rules",
+  "insights": [],
+  "limitations": [
+    "Ejemplo de abstención: cobertura insuficiente para producir un resumen útil."
+  ]
+}

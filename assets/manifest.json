@@ -1,0 +1,61 @@
+{
+  "status": "provisional",
+  "createdAt": "2026-09-24",
+  "origin": "Vectores originales creados para este paquete; sin recursos externos descargados.",
+  "assets": [
+    {
+      "path": "weather/sun.svg",
+      "role": "weather-condition",
+      "replaceable": true
+    },
+    {
+      "path": "weather/moon.svg",
+      "role": "weather-condition",
+      "replaceable": true
+    },
+    {
+      "path": "weather/cloud.svg",
+      "role": "weather-condition",
+      "replaceable": true
+    },
+    {
+      "path": "weather/rain.svg",
+      "role": "weather-condition",
+      "replaceable": true
+    },
+    {
+      "path": "weather/snow.svg",
+      "role": "weather-condition",
+      "replaceable": true
+    },
+    {
+      "path": "weather/storm.svg",
+      "role": "weather-condition",
+      "replaceable": true
+    },
+    {
+      "path": "weather/fog.svg",
+      "role": "weather-condition",
+      "replaceable": true
+    },
+    {
+      "path": "weather/unknown.svg",
+      "role": "weather-condition",
+      "replaceable": true
+    },
+    {
+      "path": "forekast-mark.svg",
+      "role": "brand-reference",
+      "replaceable": true
+    },
+    {
+      "path": "forekast-wireframe.svg",
+      "role": "static-wireframe",
+      "replaceable": true
+    }
+  ],
+  "notes": [
+    "SVG no es VectorDrawable: convertir al integrar en Android.",
+    "Marca provisional, sin comprobación de disponibilidad comercial."
+  ]
+}

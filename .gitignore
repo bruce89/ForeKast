@@ -1,0 +1,33 @@
+# Android / Gradle: generated files and machine-specific settings
+.gradle/
+.kotlin/
+**/build/
+local.properties
+captures/
+.cxx/
+.externalNativeBuild/
+
+# IDE and OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Signing and local credentials
+*.jks
+*.keystore
+keystore.properties
+.env
+.env.*
+!.env.example
+
+# Future Python experiments
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local work
+work/

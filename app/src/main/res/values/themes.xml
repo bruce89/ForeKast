@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.ForeKast" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:colorAccent">#215E73</item>
+    </style>
+    <color name="launcher_background">#215E73</color>
+</resources>
